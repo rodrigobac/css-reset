@@ -2,10 +2,9 @@
   "name": "cssreset",
   "version": "0.0.1",
   "author": "Rodrigo Pietro Bacelli",
-  "author": "Rodrigo Pietro Bacelli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodrigobac/cssreset"
+    "url": "https://github.com/rodrigobac/css-reset"
   },
   "license":{
     "type": "MIT",
