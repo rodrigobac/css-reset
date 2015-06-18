@@ -1,0 +1,19 @@
+{
+  "name": "cssreset",
+  "version": "0.0.1",
+  "author": "Rodrigo Pietro Bacelli",
+  "author": "Rodrigo Pietro Bacelli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigobac/cssreset"
+  },
+  "license":{
+    "type": "MIT",
+    "url": ""
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
